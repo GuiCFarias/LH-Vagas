@@ -1,0 +1,13 @@
+.lista-vagas{
+  display: block;
+  margin: 50px 50px;
+}
+
+.lista-vagas .card{
+  margin: 20px 0px;
+  border-radius: 6%;
+  text-align: center;
+}
+.lista-vagas .card .card-img-top{
+  border-radius: 6%;
+}
