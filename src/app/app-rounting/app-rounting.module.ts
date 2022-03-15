@@ -5,8 +5,8 @@ import { MuralVagasComponent } from '../mural-vagas/mural-vagas.component';
 import { PainelVagasComponent } from '../painel-vagas/painel-vagas.component';
 
 const rotas: Routes =[
-  {path: 'mural-vagas', component: MuralVagasComponent},
-  {path: 'painel-vagas', component: PainelVagasComponent},
+  {path: 'mural', component: MuralVagasComponent},
+  {path: 'painel', component: PainelVagasComponent},
   {path: '', redirectTo: '/mural',pathMatch:'full'}
 
 ]
